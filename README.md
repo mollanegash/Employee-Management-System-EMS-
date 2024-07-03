@@ -1,2 +1,12 @@
-# Employee-Management-System-EMS-
-Employee API Repository  A Spring Boot-based RESTful API for managing employee data. Features:  - CRUD operations for employees - Employee data retrieval - Employee data saving  Technologies used:  - Spring Boot - Spring REST - Java
+Employee Management System (EMS)
+Employee API Repository
+A Spring Boot-based RESTful API for managing employee data efficiently and effectively.
+
+Features
+CRUD operations for employee records
+Retrieve employee data
+Save employee data
+Technologies Used
+Spring Boot
+Spring REST
+Java
